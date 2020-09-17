@@ -4,7 +4,7 @@
 
 - I am a software engineering graduate from Metropolia UAS.
 - I am passionate about designing and building robust web applications.
-- I am currently learning GraphQL and Test Driven Development.
+- I am currently learning Test Driven Development.
 - I like trying App UI design with figma in my free time.
 
 ### My Projects
